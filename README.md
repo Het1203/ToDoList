@@ -17,9 +17,3 @@ This project is a functional and user-friendly interface for managing daily task
 - **Express.js:** Backend framework for Node.js.
 - **MongoDB:** NoSQL database for storing tasks.
 - **Mongoose:** MongoDB object modeling for Node.js.
-
-## How to Use
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/Het1203/ToDoList.git
